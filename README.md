@@ -5,7 +5,7 @@
   hi there 
  </title>
 </head>
-<body>
+<body;background color:green;>
 welcome to my first html page
 </body>
 </html>
